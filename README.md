@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
  
 This is a simple Tic-Tac-Toe game implemented using Python's tkinter library for the GUI. The game allows players to play against two different AI algorithms: a basic rule-based algorithm and a more advanced heuristic using the A* search.
 

@@ -2,13 +2,13 @@
  
 This is a simple Tic-Tac-Toe game implemented using Python's tkinter library for the GUI. The game allows players to play against two different AI algorithms: a basic rule-based algorithm and a more advanced heuristic using the A* search.
 
-##Clone the repository:
+#Clone the repository:
 git clone https://github.com/cembaysaal/Tic-Tac-Toe
 
-##Navigate to the directory:
+#Navigate to the directory:
 cd TicTacToe
 
-##Run the game:
+#Run the game:
 python main.py
 
 

@@ -5,10 +5,8 @@ This is a simple Tic-Tac-Toe game implemented using Python's tkinter library for
 ## Clone the repository:
 git clone https://github.com/cembaysaal/Tic-Tac-Toe
 
-# Navigate to the directory:
 cd Tic-Tac-Toe
 
-# Run the game:
 python main.py
 
 ## Controls
